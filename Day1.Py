@@ -78,3 +78,22 @@ while count > 0:
     count -= 1
 for fruit in fruits:
     print(fruit)
+#Functions
+def testfunction():
+    print("This is a test function with no inputs.")
+
+testfunction()
+def greet(name):
+    print(f"Hello, {name}!")
+greet("Alice")
+name = "Bob"
+greet("Alice")
+greet(name)
+
+name_integer = 123
+greet(name_integer)
+
+def add(a, b):
+    return a + b
+print(add(5, 3))
+print(add("Hello, ", str(3)))
