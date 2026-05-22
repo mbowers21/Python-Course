@@ -1,0 +1,30 @@
+name,age,department,city,salary,start_date,email
+Alice Nguyen,31,Engineering,San Francisco,95000,2019-03-12,alice.nguyen@acmecorp.com
+Bob Martinez,27,Marketing,Chicago,62000,2021-07-01,bob.martinez@acmecorp.com
+Carol Kim,35,Engineering,San Francisco,112000,2017-11-20,carol.kim@acmecorp.com
+Dave Okafor,,Sales,New York,71000,2020-05-15,dave.okafor@acmecorp.com
+Eve Patel,29,Marketing,Chicago,58000,2022-01-10,eve.patel@acmecorp.com
+Frank Li,42,HR,New York,84000,2014-08-03,frank.li@acmecorp.com
+Grace Thompson,38,Engineering,Austin,103000,2016-02-28,grace.thompson@acmecorp.com
+Hana Sato,24,Sales,Chicago,47000,2023-04-19,hana.sato@acmecorp.com
+Ivan Rossi,31,Engineering,Austin,98000,2018-09-05,ivan.rossi@acmecorp.com
+Julia Fernandez,45,HR,San Francisco,91000,2012-06-14,julia.fernandez@acmecorp.com
+Kevin O'Brien,33,Sales,New York,67500,2019-12-02,kevin.obrien@acmecorp.com
+Laura Chen,28,Marketing,Austin,61000,2021-03-25,laura.chen@acmecorp.com
+Marcus Reed,37,Engineering,San Francisco,119000,2015-10-11,marcus.reed@acmecorp.com
+Nina Johansson,,Engineering,Austin,,2020-08-30,nina.johansson@acmecorp.com
+Omar Hassan,26,Sales,Chicago,52000,2022-11-07,omar.hassan@acmecorp.com
+Paula Diaz,40,HR,New York,87500,2013-04-22,paula.diaz@acmecorp.com
+Quinn Baker,30,Marketing,San Francisco,66000,2020-02-14,quinn.baker@acmecorp.com
+Rachel Wong,34,Engineering,Austin,107000,2017-07-09,rachel.wong@acmecorp.com
+Sam Nkosi,29,Sales,New York,59000,2021-09-18,
+Tom Erikson,55,HR,Chicago,not_a_number,2008-01-30,tom.erikson@acmecorp.com
+Uma Sharma,32,Marketing,Chicago,70000,2019-06-03,uma.sharma@acmecorp.com
+Victor Alves,44,Engineering,San Francisco,125000,2011-03-17,victor.alves@acmecorp.com
+Wendy Park,27,Sales,Austin,48500,2023-01-09,wendy.park@acmecorp.com
+Xavier Dubois,36,HR,New York,82000,2016-08-25,xavier.dubois@acmecorp.com
+Yuki Tanaka,31,Engineering,Chicago,94000,2018-12-04,yuki.tanaka@acmecorp.com
+Zoe Williams,23,Marketing,San Francisco,54000,2023-08-15,zoe.williams@acmecorp.com
+Alice Nguyen,31,Engineering,San Francisco,95000,2019-03-12,alice.nguyen@acmecorp.com
+Nina Johansson,28,Engineering,Austin,99000,2020-08-30,nina.johansson@acmecorp.com
+Sam Nkosi,29,Sales,New York,59000,2021-09-18,sam.nkosi@acmecorp.com

@@ -1,0 +1,15 @@
+This is an example txt file.  Very simple
+
+Only a few lines of text.
+
+1 
+
+2
+
+3
+
+Some quotes:
+
+"Veni, vedi, vici"
+
+End of file
