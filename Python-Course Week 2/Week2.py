@@ -65,8 +65,8 @@ for city, salaries in city_salaries.items():
 #Create a New Clean CSV File
 with open("employees_clean.csv", "w", newline="") as file:
     fieldnames = ["name", "age", "city", "salary"]
-    writer = csv.DictWriter(file, fieldnames=fieldnames)
+    writer = csv.DictWriter(file, fieldnames=fieldnames, extrasaction="ignore")
     writer.writeheader()
-    for row in cleaned:
+    for row in clean_rows:
         writer.writerow(row)
 print("Cleaned data written to employees_clean.csv")
